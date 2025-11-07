@@ -1,2 +1,2 @@
-# YYO-AI-Enterprise-
+# YYO-AI-Enterprise
 AI Agent
